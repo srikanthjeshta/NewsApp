@@ -1,0 +1,6 @@
+framework module Pods_DoYourThngTask_DoYourThngTaskUITests {
+  umbrella header "Pods-DoYourThngTask-DoYourThngTaskUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
